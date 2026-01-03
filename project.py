@@ -115,3 +115,4 @@ function calc(){
 """
 
 components.html(html_code, height=600)
+
